@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site-clone",
-    "currentPage": "page2.html",
+    "currentPage": "version3.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -783,9 +783,9 @@
         }
       ]
     },
-    "page2.html": {
+    "version3.html": {
       "settings": {
-        "title": "Page 2",
+        "title": "Jaffa Gates",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
